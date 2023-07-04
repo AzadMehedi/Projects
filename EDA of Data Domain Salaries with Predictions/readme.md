@@ -1,7 +1,22 @@
 ![image](https://github.com/AzadMehedi/Projects/assets/49702660/d5c750d3-0912-4b45-b0f4-891de1ddef11)
 
 <h1>This project is about Exploratory Data Analysis and Predictions on Salaries of Data Domain field.</h1>
+
 Explain the dataset
+There are <strong>607</strong> instances.
+There are <strong>9</strong> dataframe columns/attributes.
+There are <strong>3</strong> numerical attributes:
+<em>work_year</em>
+<em>salary_in_usd</em>
+<em>remote_ratio</em>
+There are <strong>6</strong> categorical attributes:
+
+<em>experience_level</em>
+<em>employment_type</em>
+<em>job_title</em>
+<em>employee_residence</em>
+<em>company_location</em>
+<em>company_size</em>
 <h2>work_year: The year the salary was paid.</h2>
 <h2>experience_level: The experience level in the job during the year with the following possible values</h2>
 <li>EN : Entry-level</li>
