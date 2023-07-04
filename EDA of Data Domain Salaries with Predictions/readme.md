@@ -40,6 +40,7 @@ Explaining the dataset
 <h2>Let's See Univariate Analysis</h2>
 <ol>
   <li>Distribution of salary</li>
+  
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/436d29af-60c2-4e3e-bc08-6206ee907fc9)
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/1e661336-2ae7-429e-8e65-eda6cdba09ef)
@@ -49,6 +50,7 @@ Explaining the dataset
 
 
   <li>experience_lavel</li>
+  
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/1bd26e73-60d3-44ad-8a2d-61ace0794222)
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/235ad17f-360d-47cd-bcc8-34b43a6bfce7)
@@ -59,6 +61,7 @@ Explaining the dataset
   <h4>We can see from the above pie chart that senior level jobs mostly requires experience.</h4>
 
   <li>employment_type</li>
+  
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/f15e83f4-7669-4543-942a-06457d958bcb)
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/db5dc549-f13f-450f-8cbd-58d4c4840766)
@@ -75,6 +78,7 @@ Explaining the dataset
 
 
   <li>job_title</li>
+  
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/81a240d6-5ef3-4aa4-bc9c-c43fadc3d921)
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/bc781f44-dd72-4dac-bf5f-e802b4176dc4)
@@ -89,6 +93,7 @@ Explaining the dataset
   <ol>Machine learning Engneer's Salary got Second Position.</ol>
 
   <li>Employee Residence and Company location</li>
+  
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/8c992af9-be90-4aaa-8579-ce2935723760)
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/f5324911-ad1e-4336-a551-9fa42b0efe4f)
@@ -98,6 +103,7 @@ Explaining the dataset
   <ol>Then UK, Canada, Germany, India, France so on</ol>
 
   <li>Remote ratio</li>
+  
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/398825d6-128c-410d-8eb9-988bfd5ab0e2)
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/66159f3c-802d-4646-9437-73102b0b2bdb)
@@ -107,8 +113,29 @@ Explaining the dataset
   <ol>Then On-Site job type</ol>
   <ol>Lastly, Partially or Hybrid job type.</ol>
 
-  <li>Item 3</li>
-  <li>Item 3</li>
+  
+  <h2>Let's See Bivariate Analysis</h2>
+  <li>Work Year and Remote Ratio</li>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/4f0798bd-39d3-4570-bd4b-c75ad96ea627)
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/567cc965-e49e-4d25-9fe1-79cacfddb959)
+
+  <h3>Observations:</h3>
+  <ol>Fully Remote ratio Increased each year.</ol>
+  <ol>Partially or Hybrid ratio Increased in 2021 year but decreased 2020.</ol>
+  <ol>On Site ratio decreased each year.</ol>
+
+
+  <li>Relationship between salary and work year</li>
+  
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/e2eda158-f0e0-4b35-b819-78910ca43813)
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/7445d517-2345-4b5e-891f-de6e315d146b)
+
+  <h3>Observations:</h3>
+  <ol>Average salaries increased each year.</ol>
+  
+
+
   <li>Item 3</li>
   <li>Item 3</li>
   <li>Item 3</li>
