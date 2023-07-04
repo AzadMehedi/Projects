@@ -120,6 +120,8 @@ Explaining the dataset
   <h2>Work Year and Remote Ratio</h2>
 
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/4f0798bd-39d3-4570-bd4b-c75ad96ea627)
+
+  
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/567cc965-e49e-4d25-9fe1-79cacfddb959)
 
