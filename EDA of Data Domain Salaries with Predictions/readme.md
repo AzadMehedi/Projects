@@ -25,3 +25,6 @@ Explain the dataset
 <li>S : less than 50 employees (small)</li>
 <li>M : 50 to 250 employees (medium)</li>
 <li>L : more than 250 employees (large)</li>
+
+![image](https://github.com/AzadMehedi/Projects/assets/49702660/75d4e6ef-ae3e-402d-b4c7-d4d648ed4874)
+
