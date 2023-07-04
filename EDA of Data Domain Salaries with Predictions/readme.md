@@ -1,3 +1,5 @@
+![image](https://github.com/AzadMehedi/Projects/assets/49702660/d5c750d3-0912-4b45-b0f4-891de1ddef11)
+
 <h1>This project is about Exploratory Data Analysis and Predictions on Salaries of Data Domain field.</h1>
 Explain the dataset
 <h2>work_year: The year the salary was paid.</h2>
