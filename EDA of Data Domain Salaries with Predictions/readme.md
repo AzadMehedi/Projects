@@ -35,7 +35,9 @@ Explaining the dataset
 <ol>
   <li>Distribution of salary</li>
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/436d29af-60c2-4e3e-bc08-6206ee907fc9)
+  
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/1e661336-2ae7-429e-8e65-eda6cdba09ef)
+  
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/20338e1f-839f-4709-81e0-df749ff2acb1)
 
 
