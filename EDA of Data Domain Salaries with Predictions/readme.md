@@ -37,9 +37,10 @@ Explaining the dataset
 <li>L : more than 250 employees (large)</li>
 
 <h1>Exploratory Data Analysis</h1>
+
 <h2>Let's See Univariate Analysis</h2>
 <ol>
-  <li>Distribution of salary</li>
+  <h2>Distribution of salary</h2>
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/436d29af-60c2-4e3e-bc08-6206ee907fc9)
   
@@ -49,7 +50,7 @@ Explaining the dataset
 
 
 
-  <li>experience_lavel</li>
+  <h2>experience_lavel</h2>
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/1bd26e73-60d3-44ad-8a2d-61ace0794222)
   
@@ -57,10 +58,10 @@ Explaining the dataset
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/71a25919-0a18-493a-b7b1-531560fd5886)
   
-  <h3>Observation:</h3
+  <h3>Observation:</h3                 
   <h4>We can see from the above pie chart that senior level jobs mostly requires experience.</h4>
 
-  <li>employment_type</li>
+  <h2>employment_type</h2>
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/f15e83f4-7669-4543-942a-06457d958bcb)
   
@@ -77,7 +78,7 @@ Explaining the dataset
 
 
 
-  <li>job_title</li>
+  <h2>job_title</h2>
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/81a240d6-5ef3-4aa4-bc9c-c43fadc3d921)
   
@@ -87,12 +88,12 @@ Explaining the dataset
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/0896f99a-b8c7-4387-9d7d-8211b9d77592)
   
-  <h3>Observations:</h3>
+  <h2>Observations:</h2>
   <ol>After Centralize we got 10 main job category.</ol>
   <ol>Data Scientist;s Average Salary gain top position.</ol>
   <ol>Machine learning Engneer's Salary got Second Position.</ol>
 
-  <li>Employee Residence and Company location</li>
+  <h2>Employee Residence and Company location</h2>
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/8c992af9-be90-4aaa-8579-ce2935723760)
   
@@ -102,7 +103,7 @@ Explaining the dataset
   <ol>Maximum Data Domain Jobs seen in the USA.</ol>
   <ol>Then UK, Canada, Germany, India, France so on</ol>
 
-  <li>Remote ratio</li>
+  <h2>Remote ratio</h2>
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/398825d6-128c-410d-8eb9-988bfd5ab0e2)
   
@@ -115,9 +116,11 @@ Explaining the dataset
 
   
   <h2>Let's See Bivariate Analysis</h2>
-  <li>Work Year and Remote Ratio</li>
+  
+  <h2>Work Year and Remote Ratio</h2>
 
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/4f0798bd-39d3-4570-bd4b-c75ad96ea627)
+  
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/567cc965-e49e-4d25-9fe1-79cacfddb959)
 
   <h3>Observations:</h3>
@@ -126,9 +129,10 @@ Explaining the dataset
   <ol>On Site ratio decreased each year.</ol>
 
 
-  <li>Relationship between salary and work year</li>
+  <h2>Relationship between salary and work year</h2>
   
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/e2eda158-f0e0-4b35-b819-78910ca43813)
+  
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/7445d517-2345-4b5e-891f-de6e315d146b)
 
   <h3>Observations:</h3>
@@ -136,11 +140,65 @@ Explaining the dataset
   
 
 
-  <li>Item 3</li>
-  <li>Item 3</li>
-  <li>Item 3</li>
-  <li>Item 3</li>
-  <li>Item 3</li>
+  <h2>Relationship between Salary and company size</h2>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/0eae179a-152c-4a34-bf37-50e3788a57cf)
+
+  <h3>Observations:</h3>
+  <ol>comparetively Larger comapany pays more salary.</ol>
+
+  <h2>Job Types and Experience Level distributions</h2>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/e0f1a243-f892-44bc-83e5-ec7bddc5c098)
+
+  <h3>Observations:</h3>
+  <ol>Fully Remote job has the highest number of job opening.</ol>
+  <ol>Senior level job has the highest number of job opening.</ol>
+
+  <h2>relationship between Salary and employment_type</h2>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/6558e706-921b-4630-8eda-76ec07ba3b90)
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/18810dbc-e148-40a9-82a4-b773bad8c0a0)
+
+  <h3>Observations:</h3>
+  <ol>Contract based employee get higher amaunt Average salay. Then Full time based employee. Then Freelance and part time based employee.</ol>
+  <ol>Some full time based employee gets higher amount than others.</ol>
+
+
+  <h2>Top 10 Roles in Data Science based on Average Pay</h2>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/e7e32a6d-a4a6-48f6-9692-5fe8d22c4f5e)
+
+  <h3>Observations:</h3>
+  <ol>Average Salary of Data Architech is Higher than others.</ol>
+
+  <h2>top 10 popular Data science role</h2>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/4016e49c-e2c8-4c18-9fdc-a9ddf1f16ad4)
+
+  <h3>Observations:</h3>
+  <ol>There are more jobs in Data Science Field.</ol>
+  <ol>Then Data Engineer and Data Analyst</ol>
+  
+  <h2>Top 10 roles in Data Science role according to salary</h2>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/bda16157-7153-487b-8f31-deedac7f6f2a)
+
+  <h3>Observations:</h3>
+  <ol>According to Salary, Data Engineer earn more than others.</ol>
+  <ol>Data Analyst, Research Scientist, Machine learning Engineer and Data Scientist earn almost same.</ol>
+
+
+  <h2>Job title and Experience level</h2>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/aaec7864-4a1b-4177-9c4e-4c4b2014d0d3)
+
+  
+
+
+  <h2>Item 3</h2>
+  
 </ol>
 
 
