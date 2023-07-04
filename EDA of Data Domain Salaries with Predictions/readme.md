@@ -2,7 +2,7 @@
 Explain the dataset
 <h2>work_year: The year the salary was paid.</h2>
 <h2>experience_level: The experience level in the job during the year with the following possible values</h2>
-<h2>EN : Entry-level</h2>
+<li>EN : Entry-level</li>
 <li>MI : Junior Mid-level</li>
 <li>SE : Intermediate Senior-level</li>
 <li>EX Expert Executive-level / Director</li>
