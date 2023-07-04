@@ -28,5 +28,15 @@ Explain the dataset
 <li>M : 50 to 250 employees (medium)</li>
 <li>L : more than 250 employees (large)</li>
 
+<h1>Exploratory Data Analysis</h1>
+<h2>Let's See Univariate Analysis</h2>
+<ol>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ol>
+
+
+
 
 
