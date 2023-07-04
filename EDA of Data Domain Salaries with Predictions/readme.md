@@ -5,16 +5,19 @@
 Explaining the dataset
 
 <h2>work_year: The year the salary was paid.</h2>
+
 <h2>experience_level: The experience level in the job during the year with the following possible values</h2>
 <li>EN : Entry-level</li>
 <li>MI : Junior Mid-level</li>
 <li>SE : Intermediate Senior-level</li>
 <li>EX Expert Executive-level / Director</li>
+
 <h2>employment_type: The type of employment for the role</h2>
 <li>PT : Part-time</li>
 <li>FT : Full-time</li>
 <li>CT : Contract</li>
 <li>FL : Freelance</li>
+
 <h2>job_title: The role worked in during the year.</h2>
 <h2>salary: The total gross salary amount paid.</h2>
 <h2>salary_currency: The currency of the salary paid as an ISO 4217 currency code.</h2>
