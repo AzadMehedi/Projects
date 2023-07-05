@@ -1,5 +1,41 @@
 ![image](https://github.com/AzadMehedi/Projects/assets/49702660/d5c750d3-0912-4b45-b0f4-891de1ddef11)
 
+<h1>Project Title: EDA & Prediction of Data Domain job Salaries</h1>
+
+<h1>Programming Language used: <col='red'>Python</col></h1>
+
+<h1>Environment: kaggle Notebook & Google Colab</h1>
+
+<h1>Machine Learning Library used: Scikit Learn</h1>
+
+<h1>Used Machine Learning Models:</h1>
+
+<ol>
+  <li>Random Forest</li>
+  <li>GradientBoosting</li>
+  <li>XGB</li>
+  <li>ExtraTree</li>
+  <li>DecisionTree</li>
+  <li>LGBM</li>
+  <li>KNeighbors</li>
+</ol>
+
+<h1>Best Accuracy: 0.948997	</h1>
+<h1>Random Forest</h1>
+
+<h1>Data Manipulation Tools used::</h1>
+<ol>
+  <li>Pandas</li>
+  <li>Numpy</li>
+</ol>
+
+<h1>Visualization Tools used::</h1>
+<ol>
+  <li>Matplotlib</li>
+  <li>Seaborn</li>
+  <li>plotly</li>
+</ol>
+
 <h1>This project is about Exploratory Data Analysis and Predictions on Salaries of Data Domain field.</h1>
 
 Explaining the dataset
