@@ -39,8 +39,15 @@
 
 <h1>This project is about Exploratory Data Analysis and Predictions on Salaries of Data Domain field.</h1>
 
-Explaining the dataset
-
+<h1>Explaining the dataset</h1>
+<h3>This Dataset conains: </h3>
+<ol>
+  <li>Rows: 607</li>
+  <li>Columns: 9</li>
+  <li>There are 7 Categorical Columns</li>
+  <li>There are 2 Numerical Columns</li>
+</ol>
+<h1>Dataset Analysis:</h1>
 <h2>work_year: The year the salary was paid.</h2>
 
 <h2>experience_level: The experience level in the job during the year with the following possible values</h2>
