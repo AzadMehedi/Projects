@@ -2,7 +2,7 @@
 
 <h1>Project Title: EDA & Prediction of Data Domain job Salaries</h1>
 
-<h1>Programming Language used: <col='red'>Python</col></h1>
+<h1>Programming Language used: Python</h1>
 
 <h1>Environment: kaggle Notebook & Google Colab</h1>
 
@@ -20,8 +20,9 @@
   <li>KNeighbors</li>
 </ol>
 
+<h1>Best Model: Random Forest</h1>
 <h1>Best Accuracy: 0.948997	</h1>
-<h1>Random Forest</h1>
+
 
 <h1>Data Manipulation Tools used::</h1>
 <ol>
