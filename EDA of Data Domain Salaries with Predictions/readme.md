@@ -223,16 +223,51 @@ Explaining the dataset
 
   <h2>Relationship between Salary and Exprience</h2>
 
-  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/93f1893f-a320-4bd7-b080-9f4de6f8d2c3)
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/d88e433f-290c-4291-a13d-376273051abe)
 
-  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/254e1b1b-f72c-48be-81ba-40b97ea6ad15)
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/2f41e666-351f-4fdc-a0d5-56b7f4764d19)
+
+  <h3>Observations:</h3>
+  <ol>According to Experience level, Mean & Maximum Salary of Executive levels got first position.</ol>
+  <ol>'Senior Level' in Mean salary section got second position.</ol>
+  <ol>'Middle Level' in Maximum salary section got second position.</ol>
 
 
-  <h2>Item 3</h2>
-  <h2>Item 3</h2>
-  <h2>Item 3</h2>
-  <h2>Item 3</h2>
+  <h2>Multivariate Analysis</h2>
+  
+  <h2>Corelation between Features</h2>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/719e9757-c446-4288-a306-07e41ae0726b)
+
+  <h3>Observations:</h3>
+  <ol>The Highest correlation of salary is with:</ol>
+    <ol>1. Employee Residence</ol>
+    <ol>2. Company Location</ol>
+    <ol>3. Experience Level</ol>
+    <ol>Employment type & Company size has a Negative correlation</ol>
+ 
+
+  <h2>job type and company size VS salary</h2>
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/3d1794de-765f-4cb0-a113-5d9331a4b440)
+
+  <h3>Observations:</h3>
+  <ol>Lowest salary is seen in onsite job for a small company.</ol>
+  <ol>Higher salary is seen in Fully remote job for a laege company.</ol>
+
+  
+  <h2>The relationship between salary_in_usd and experience_level and work_year</h2>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/129be106-07ca-4d88-ad20-17bf3c85b20b)
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/380d025c-792d-491d-b166-f2469d6fb3e8)
+
+
 </ol>
+
+<h1>Model Accuracy</h1>
+
+![image](https://github.com/AzadMehedi/Projects/assets/49702660/680b428a-115d-4a82-8842-493a8b001158)
+
 
 
 
