@@ -199,8 +199,39 @@ Explaining the dataset
   
 
 
+  <h2>Relationship of Job Title and Salary</h2>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/82fc959c-c560-4aba-ab0a-2e2c29d31f33)
+
+  <h3>Observations:</h3>
+  <ol>Senior Employee is more in Almost every Job role.</ol>
+
+  <h2>Job title and Employment Type</h2>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/e2dbb93c-6a81-4eb4-8d14-742d6495585b)
+
+  <h3>Observations:</h3>
+  <ol>Count of Fully Remote is in Top position in most job title.</ol>
+
+  <h2>Company Size VS Job Type Counts</h2>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/41a20227-826d-4f6b-85da-a85d5c25e0f1)
+
+  <h3>Observations:</h3>
+  <ol>Small-sized companies provide minimum onsite opportunities,</ol>
+  <ol>whereas Medium-sized companies provide maximum remote work opportunities.</ol>
+
+  <h2>Relationship between Salary and Exprience</h2>
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/93f1893f-a320-4bd7-b080-9f4de6f8d2c3)
+
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/254e1b1b-f72c-48be-81ba-40b97ea6ad15)
+
+
   <h2>Item 3</h2>
-  
+  <h2>Item 3</h2>
+  <h2>Item 3</h2>
+  <h2>Item 3</h2>
 </ol>
 
 
