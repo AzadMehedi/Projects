@@ -311,10 +311,12 @@
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/380d025c-792d-491d-b166-f2469d6fb3e8)
 
 <h3>
-  <ol>1. in 2020, 2021, 2023 : Executive levels employee got more average salary than others.</ol>
-  <ol>2. in 2020, 2021: Executive levels employee got max salary than others.</ol>
-  <ol>3. in 2021: Middle levels employee got max salary than others.</ol>
-  <ol>4. in 2020, 2022: Executive levels employee got max salary than others.</ol>
+  <ol>
+    <ol>1. in 2020, 2021, 2023 : Executive levels employee got more average salary than others.</ol>
+    <ol>2. in 2020, 2021: Executive levels employee got max salary than others.</ol>
+    <ol>3. in 2021: Middle levels employee got max salary than others.</ol>
+    <ol>4. in 2020, 2022: Executive levels employee got max salary than others.</ol>
+  </ol>
 </h3>
 
 
