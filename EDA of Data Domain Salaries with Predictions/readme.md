@@ -259,7 +259,8 @@
 
   <h2>Company Size VS Job Type Counts</h2>
 
-  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/41a20227-826d-4f6b-85da-a85d5c25e0f1)
+ ![image](https://github.com/AzadMehedi/Projects/assets/49702660/6040ceb8-1915-4a9e-a96c-dd718fb9ed6b)
+
 
   <h3>Observations:</h3>
   <ol>Small-sized companies provide minimum onsite opportunities,</ol>
