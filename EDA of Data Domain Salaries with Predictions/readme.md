@@ -9,9 +9,14 @@
 
 <h1>Programming Language used: Python</h1>
 
-<h1>Environment: kaggle Notebook & Google Colab</h1>
+<h1>Environment:Google Colab / Jupyter Notebook</h1>
 
 <h1>Machine Learning Library used: Scikit Learn</h1>
+<h1>Data Manipulation, Computing Library used Library used: Pandas & Numpy</h1>
+<h1>Data Visualization Library used:</h1>
+<ol>Matplotlib</ol>
+<ol>Seaborn</ol>
+<ol>PLotly</ol>
 
 <h1>Used Machine Learning Models:</h1>
 
