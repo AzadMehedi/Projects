@@ -240,6 +240,18 @@
 
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/aaec7864-4a1b-4177-9c4e-4c4b2014d0d3)
 
+<h3>Observations: </h3>
+<ol>
+  <ol>we can see that these positions, Experience Level: Senior are higher than others.</ol>
+  <li>Data Scientist,</li>
+  <li>Data Scientist,</li>
+  <li>Data Engineer,</li>
+  <li>Data Anlyst,</li>
+  <li>Machine Learning Engineer, &</li>
+  <li>Data Architech</li>
+  <ol>that means company are hiring more Senior levels employee in this positions.</ol>
+  <ol>Middle experience level employeecomes second at these positions.</ol>
+</ol>
   
 
 
