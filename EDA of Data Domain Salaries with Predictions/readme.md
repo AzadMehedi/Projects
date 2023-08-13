@@ -1,7 +1,9 @@
+![image](https://github.com/AzadMehedi/Projects/assets/49702660/d5c750d3-0912-4b45-b0f4-891de1ddef11)
+
 <h1>Reports of Data Science Domain job Salary </h1>
 <h2>Dataset link:</h2>
 <h2>https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries</h2>
-![image](https://github.com/AzadMehedi/Projects/assets/49702660/d5c750d3-0912-4b45-b0f4-891de1ddef11)
+
 
 <h1>Project Title: EDA & Prediction of Data Domain job Salaries</h1>
 
