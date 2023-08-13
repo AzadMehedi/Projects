@@ -321,13 +321,80 @@
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/380d025c-792d-491d-b166-f2469d6fb3e8)
 
 <h3>
-  <ol>
     <ol>1. in 2020, 2021, 2023 : Executive levels employee got more average salary than others.</ol>
     <ol>2. in 2020, 2021: Executive levels employee got max salary than others.</ol>
     <ol>3. in 2021: Middle levels employee got max salary than others.</ol>
     <ol>4. in 2020, 2022: Executive levels employee got max salary than others.</ol>
-  </ol>
 </h3>
+
+
+<h2>Regression Analysis</h2>
+
+<ol>The factorize function in Pandas assigns a unique numerical value to each distinct category in a categorical column. It returns two values: a new column with the numerical codes for each category, and an array that contains the unique categories themselves.</ol>
+
+<ol>In the given code, the line data[column], _ = pd.factorize(data[column]) assigns the numerical codes to the column in the data DataFrame, replacing the original categorical values. The underscore _ is used to discard the array of unique categories returned by factorize because it is not needed in this code.</ol>
+
+<ol>By applying factorize to each categorical column, the original categorical data is transformed into numerical data, allowing it to be used as input in the subsequent regression analysis.</ol>
+
+<h2>Applying Random Forest Regressor</h2>
+
+![image](https://github.com/AzadMehedi/Projects/assets/49702660/4f1dc15b-d401-4166-b493-50c72448a959)
+<h3>Observations:</h3>
+
+<h4>Top 10 feature importance are:</h4>
+
+[index----feature name--------score]
+
+<ol>new_mean_salary 0.853894</ol>
+<ol>new_minimum_salary 0.075712</ol>
+<ol> new_maximum_salary 0.060554</ol>
+<ol> job_title_Data Engineer 0.002372</ol>
+<ol> experience_level 0.001205</ol>
+<ol> remote_ratio 0.001189</ol>
+<ol> company_location_Germany 0.001139</ol>
+<ol> job_title_Data Scientist 0.000671</ol>
+<ol> work_year 0.000573</ol>
+<ol> job_title_Data Architect 0.000489</ol>
+<ol>squared value of Accuracy is : 0.91%. That means our model/ regression line can fit or touch 91% feature variable. squared value of Accuracy is : 0.91%. That means our model/ regression line can fit or touch 91% feature variable.</ol>
+
+<ol>Adj. R-squared (uncentered): 0.953 means if we increase the feature variables then our accuracy will increase. but if we increase the feature variables & R-squared increase but Adj. R-square doesn't then adding more feature doesn't increase the model. here R-squared = 0.954 & Adj. R-square = 0.953 which is says R-squared ~ Adj. R-square. so no need to add more feature variables.
+
+<ol>Prob (F-statistic): the value of Prob (F-statistic) should below (0.05). if Prob (F-statistic)> 0.05 then our model is not good for regression. its very important Prob (F-statistic)<0.05</ol>
+
+<ol>P>|t| - Those which coefficients p>|t| value is more than 0.05 (p>|t| > 0.05) we can remove them because they are not important for our model.</ol>
+
+<ol>Df Model- Number of Independent features model consumed. Dep. Variable- Number of dependent feature (target/ label)</ol>
+
+<ol>Mean Absolute Error - (MAS) : 9.83875394333003</ol>
+
+<ol>Mean Squared Error -(MSE) : 331.0808322445805</ol>
+
+<ol>Root Mean Squared Error -(RMSE) : 18.195626734041905</ol>
+
+<h2>Accuracy-(R2 Score): 0.9136138665760188 ~ 91%</h2>
+
+
+<h2>Now comparing the Acuracy and error of different models</h2>
+<h3>Observations:</h3>
+
+
+Model Name----------Accuracy
+
+<ol>Random Forest: 0.945127</ol>
+<ol>GradientBoosting: 0.941213</ol>
+<ol>XGB: 0.940079</ol>
+<ol>DecisionTree: 0.924845</ol>
+<ol>ExtraTree: 0.917075</ol>
+<ol>LGBM: 0.893387</ol>
+<ol>KNeighbors: 0.389352</ol>
+
+
+
+
+
+
+
+
 
 
 
@@ -335,9 +402,10 @@
 
 </ol>
 
-<h1>Model Accuracy</h1>
+<h1>Comparing Model Accuracy</h1>
+![image](https://github.com/AzadMehedi/Projects/assets/49702660/fdb57796-cf9c-44f5-a7b3-dc6c18f2222d)
 
-![image](https://github.com/AzadMehedi/Projects/assets/49702660/680b428a-115d-4a82-8842-493a8b001158)
+
 
 
 
