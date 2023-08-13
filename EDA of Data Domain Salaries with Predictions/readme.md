@@ -405,8 +405,8 @@ Model Name----------Accuracy
 
 
 <h1>Comparing Model Accuracy</h1>
-![image](https://github.com/AzadMehedi/Projects/assets/49702660/fdb57796-cf9c-44f5-a7b3-dc6c18f2222d)
 
+![image](https://github.com/AzadMehedi/Projects/assets/49702660/fdb57796-cf9c-44f5-a7b3-dc6c18f2222d)
 
 
 
