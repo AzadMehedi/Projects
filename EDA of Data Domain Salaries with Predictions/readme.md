@@ -293,7 +293,8 @@
  
 
   <h2>job type and company size VS salary</h2>
-  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/bc0557cc-c014-4c41-8406-4759213dc6cc)
+  ![Uploading image.png…]()
+
 
 
   <h3>Observations:</h3>
