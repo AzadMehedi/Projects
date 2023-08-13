@@ -293,7 +293,8 @@
  
 
   <h2>job type and company size VS salary</h2>
-  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/3d1794de-765f-4cb0-a113-5d9331a4b440)
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/bc0557cc-c014-4c41-8406-4759213dc6cc)
+
 
   <h3>Observations:</h3>
   <ol>Lowest salary is seen in onsite job for a small company.</ol>
