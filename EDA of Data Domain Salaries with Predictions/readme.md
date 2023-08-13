@@ -242,14 +242,14 @@
 
 <h3>Observations: </h3>
   <ol>we can see that these positions, Experience Level: Senior are higher than others.</ol>
-  <li>Data Scientist,</li>
-  <li>Data Scientist,</li>
-  <li>Data Engineer,</li>
-  <li>Data Anlyst,</li>
-  <li>Machine Learning Engineer, &</li>
-  <li>Data Architech</li>
-  <ol>that means company are hiring more Senior levels employee in this positions.</ol>
-  <ol>Middle experience level employeecomes second at these positions.</ol>
+    <ol>1. Data Scientist,</ol>
+    <ol>2. Data Scientist,</ol>
+    <ol>3. Data Engineer,</ol>
+    <ol>4. Data Anlyst,</ol>
+    <ol>5. Machine Learning Engineer, &</ol>
+    <ol>6. Data Architech</ol>
+    <ol>that means company are hiring more Senior levels employee in this positions.</ol>
+    <ol>Middle experience level employeecomes second at these positions.</ol>
   
 
 
