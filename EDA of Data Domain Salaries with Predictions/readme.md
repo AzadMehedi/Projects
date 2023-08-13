@@ -1,3 +1,6 @@
+<h1>Reports of Data Science Domain job Salary </h1>
+<h2>Dataset link:</h2>
+<h2>https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries</h2>
 ![image](https://github.com/AzadMehedi/Projects/assets/49702660/d5c750d3-0912-4b45-b0f4-891de1ddef11)
 
 <h1>Project Title: EDA & Prediction of Data Domain job Salaries</h1>
@@ -320,25 +323,28 @@
 
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/380d025c-792d-491d-b166-f2469d6fb3e8)
 
-<h3>
+<ol>
     <ol>1. in 2020, 2021, 2023 : Executive levels employee got more average salary than others.</ol>
     <ol>2. in 2020, 2021: Executive levels employee got max salary than others.</ol>
     <ol>3. in 2021: Middle levels employee got max salary than others.</ol>
     <ol>4. in 2020, 2022: Executive levels employee got max salary than others.</ol>
-</h3>
+</ol>
 
 
 <h2>Regression Analysis</h2>
 
-<ol>The factorize function in Pandas assigns a unique numerical value to each distinct category in a categorical column. It returns two values: a new column with the numerical codes for each category, and an array that contains the unique categories themselves.</ol>
-
-<ol>In the given code, the line data[column], _ = pd.factorize(data[column]) assigns the numerical codes to the column in the data DataFrame, replacing the original categorical values. The underscore _ is used to discard the array of unique categories returned by factorize because it is not needed in this code.</ol>
-
-<ol>By applying factorize to each categorical column, the original categorical data is transformed into numerical data, allowing it to be used as input in the subsequent regression analysis.</ol>
+<ol>1. The factorize function in Pandas assigns a unique numerical value to each distinct category in a categorical column. It returns two values: a new column with the numerical codes for each category, and an array that contains the unique categories themselves.</ol>
+</br>
+<ol>2. In the given code, the line data[column], _ = pd.factorize(data[column]) assigns the numerical codes to the column in the data DataFrame, replacing the original categorical values. The underscore _ is used to discard the array of unique categories returned by factorize because it is not needed in this code.</ol>
+</br>
+<ol>3. By applying factorize to each categorical column, the original categorical data is transformed into numerical data, allowing it to be used as input in the subsequent regression analysis.</ol>
 
 <h2>Applying Random Forest Regressor</h2>
 
 ![image](https://github.com/AzadMehedi/Projects/assets/49702660/4f1dc15b-d401-4166-b493-50c72448a959)
+
+
+
 <h3>Observations:</h3>
 
 <h4>Top 10 feature importance are:</h4>
