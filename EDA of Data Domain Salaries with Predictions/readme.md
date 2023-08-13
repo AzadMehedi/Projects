@@ -293,7 +293,9 @@
  
 
   <h2>job type and company size VS salary</h2>
-  ![Uploading image.png…]()
+  ![image](https://github.com/AzadMehedi/Projects/assets/49702660/b8f3b8b8-199f-43fe-ae82-e1fe58ef352a)
+  
+
 
 
 
@@ -307,6 +309,16 @@
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/129be106-07ca-4d88-ad20-17bf3c85b20b)
 
   ![image](https://github.com/AzadMehedi/Projects/assets/49702660/380d025c-792d-491d-b166-f2469d6fb3e8)
+
+<h3>
+  <ol>in 2020, 2021, 2023 : Executive levels employee got more average salary than others.</ol>
+  <ol>in 2020, 2021: Executive levels employee got max salary than others.</ol>
+  <ol>in 2021: Middle levels employee got max salary than others.</ol>
+  <ol>in 2020, 2022: Executive levels employee got max salary than others.</ol>
+</h3>
+
+
+
 
 
 </ol>
