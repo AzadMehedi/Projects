@@ -358,37 +358,37 @@
 
 [index----feature name--------score]
 
-<ol>new_mean_salary 0.853894</ol>
-<ol>new_minimum_salary 0.075712</ol>
-<ol> new_maximum_salary 0.060554</ol>
-<ol> job_title_Data Engineer 0.002372</ol>
-<ol> experience_level 0.001205</ol>
-<ol> remote_ratio 0.001189</ol>
-<ol> company_location_Germany 0.001139</ol>
-<ol> job_title_Data Scientist 0.000671</ol>
-<ol> work_year 0.000573</ol>
-<ol> job_title_Data Architect 0.000489</ol>
-<ol>squared value of Accuracy is : 0.91%. That means our model/ regression line can fit or touch 91% feature variable. squared value of Accuracy is : 0.91%. That means our model/ regression line can fit or touch 91% feature variable.</ol>
+<ol>1. new_mean_salary 0.853894</ol>
+<ol>2. new_minimum_salary 0.075712</ol>
+<ol>3. new_maximum_salary 0.060554</ol>
+<ol>4. job_title_Data Engineer 0.002372</ol>
+<ol>5. experience_level 0.001205</ol>
+<ol>6. remote_ratio 0.001189</ol>
+<ol>7. company_location_Germany 0.001139</ol>
+<ol>8. job_title_Data Scientist 0.000671</ol>
+<ol>9. work_year 0.000573</ol>
+<ol>10. job_title_Data Architect 0.000489</ol>
+<ol>11. squared value of Accuracy is : 0.91%. That means our model/ regression line can fit or touch 91% feature variable. squared value of Accuracy is : 0.91%. That means our model/ regression line can fit or touch 91% feature variable.</ol>
 
-<ol>Adj. R-squared (uncentered): 0.953 means if we increase the feature variables then our accuracy will increase. but if we increase the feature variables & R-squared increase but Adj. R-square doesn't then adding more feature doesn't increase the model. here R-squared = 0.954 & Adj. R-square = 0.953 which is says R-squared ~ Adj. R-square. so no need to add more feature variables.
+<ol>12. Adj. R-squared (uncentered): 0.953 means if we increase the feature variables then our accuracy will increase. but if we increase the feature variables & R-squared increase but Adj. R-square doesn't then adding more feature doesn't increase the model. here R-squared = 0.954 & Adj. R-square = 0.953 which is says R-squared ~ Adj. R-square. so no need to add more feature variables.
 
-<ol>Prob (F-statistic): the value of Prob (F-statistic) should below (0.05). if Prob (F-statistic)> 0.05 then our model is not good for regression. its very important Prob (F-statistic)<0.05</ol>
+<ol>13. Prob (F-statistic): the value of Prob (F-statistic) should below (0.05). if Prob (F-statistic)> 0.05 then our model is not good for regression. its very important Prob (F-statistic)<0.05</ol>
 
-<ol>P>|t| - Those which coefficients p>|t| value is more than 0.05 (p>|t| > 0.05) we can remove them because they are not important for our model.</ol>
+<ol>14. P>|t| - Those which coefficients p>|t| value is more than 0.05 (p>|t| > 0.05) we can remove them because they are not important for our model.</ol>
 
-<ol>Df Model- Number of Independent features model consumed. Dep. Variable- Number of dependent feature (target/ label)</ol>
+<ol>15. Df Model- Number of Independent features model consumed. Dep. Variable- Number of dependent feature (target/ label)</ol>
 
-<ol>Mean Absolute Error - (MAS) : 9.83875394333003</ol>
+<ol>16. Mean Absolute Error - (MAS) : 9.83875394333003</ol>
 
-<ol>Mean Squared Error -(MSE) : 331.0808322445805</ol>
+<ol>17. Mean Squared Error -(MSE) : 331.0808322445805</ol>
 
-<ol>Root Mean Squared Error -(RMSE) : 18.195626734041905</ol>
+<ol>18. Root Mean Squared Error -(RMSE) : 18.195626734041905</ol>
 
-<h2>Accuracy-(R2 Score): 0.9136138665760188 ~ 91%</h2>
+<h2>19. Accuracy-(R2 Score): 0.9136138665760188 ~ 91%</h2>
 
 
-<h2>Now comparing the Acuracy and error of different models</h2>
-<h3>Observations:</h3>
+<h2>20. Now comparing the Acuracy and error of different models</h2>
+<h3>21. Observations:</h3>
 
 
 Model Name----------Accuracy
@@ -404,19 +404,19 @@ Model Name----------Accuracy
 
 
 
-
-
-
-
-
-
-
-
-
-</ol>
-
 <h1>Comparing Model Accuracy</h1>
 ![image](https://github.com/AzadMehedi/Projects/assets/49702660/fdb57796-cf9c-44f5-a7b3-dc6c18f2222d)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
